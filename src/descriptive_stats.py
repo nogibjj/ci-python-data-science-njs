@@ -1,5 +1,5 @@
 """
-A script utilizing the descriptive statistics functions in the lib.py module.
+A script utilizing the descriptive statistics functions in the lib.py module. 
 """
 import lib
 

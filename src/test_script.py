@@ -1,5 +1,5 @@
 """
-Test the descriptive statistics script.
+Test the descriptive statistics script. 
 """
 from descriptive_stats import (
     get_descriptive_stats,

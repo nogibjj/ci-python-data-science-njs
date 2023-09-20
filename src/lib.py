@@ -1,5 +1,5 @@
 """
-Common functions between the script and notebook.
+Common functions between the script and notebook. 
 """
 import os
 import pandas as pd
