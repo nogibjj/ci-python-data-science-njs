@@ -1,10 +1,10 @@
 # Continuous Integration for Python Data Science
-[![CI](https://github.com/NickStrauch13/ci-python-data-science/actions/workflows/python-ci.yml/badge.svg)](https://github.com/NickStrauch13/ci-python-data-science/actions/workflows/python-ci.yml)
+[![CI](https://github.com/nogibjj/ci-python-data-science-njs/actions/workflows/python-ci.yml/badge.svg)](https://github.com/nogibjj/ci-python-data-science-njs/actions/workflows/python-ci.yml)
 
-[![Install](https://github.com/NickStrauch13/ci-python-data-science/actions/workflows/install.yml/badge.svg)](https://github.com/NickStrauch13/ci-python-data-science/actions/workflows/install.yml)
-[![Lint](https://github.com/NickStrauch13/ci-python-data-science/actions/workflows/lint.yml/badge.svg)](https://github.com/NickStrauch13/ci-python-data-science/actions/workflows/lint.yml)
-[![Format](https://github.com/NickStrauch13/ci-python-data-science/actions/workflows/format.yml/badge.svg)](https://github.com/NickStrauch13/ci-python-data-science/actions/workflows/format.yml)
-[![Test](https://github.com/NickStrauch13/ci-python-data-science/actions/workflows/test.yml/badge.svg)](https://github.com/NickStrauch13/ci-python-data-science/actions/workflows/test.yml)
+[![Install](https://github.com/nogibjj/ci-python-data-science-njs/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/ci-python-data-science-njs/actions/workflows/install.yml)
+[![Lint](https://github.com/nogibjj/ci-python-data-science-njs/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/ci-python-data-science-njs/actions/workflows/lint.yml)
+[![Format](https://github.com/nogibjj/ci-python-data-science-njs/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/ci-python-data-science-njs/actions/workflows/format.yml)
+[![Test](https://github.com/nogibjj/ci-python-data-science-njs/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/ci-python-data-science-njs/actions/workflows/test.yml)
 
  
 ## About
